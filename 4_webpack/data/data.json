@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozila Firefox",
+    "image":"https://images.idgesg.net/images/article/2017/11/firefox_logo_2017-100742591-large.jpg",
+    "description": "Mozilla Firefox, or simply Firefox, is a free and open-source[24] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation."
+  },
+  {
+    "name": "Google Chrome",
+    "image":"https://www.xda-developers.com/files/2018/01/Chrome-Feature-Image-Background-Colour.png",
+    "description": "Google Chrome is a cross-platform web browser developed by Google."
+  },
+  {
+    "name": "Microsoft Edge",
+    "image":"https://trinsoft.com/wp-content/uploads/2020/09/Edge-Logo.jpg",
+    "description": "Microsoft Edge is a cross-platform web browser developed by Microsoft."
+  }
+]
